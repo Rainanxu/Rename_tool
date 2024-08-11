@@ -4,7 +4,7 @@ set old_name_default=*.png
 set new_name_default=-d.png
 set number_length_default=3
 set rules_chack=1
-set rename_chack=0
+set rename_chack=1
 
 set co=%1
 set ce=%2
