@@ -22,5 +22,5 @@ rename_chack|Wait for the preview of the renaming result, wait for confirmation 
 Parameter|Eexplain
 ----|----
 The first parameter|The matching conditions of the old file are the same as those of the command line matching rules
-The second parameter|New filename condition, where `-d` is the numeric position
+The second parameter|New filename condition, where `-d` is the numeric position<br>*If it starts with `-d`, use `"` for the parameter, for example:*<br>*`Rename_tool.bat oldname*.txt "-d.txt" 0012`*
 The third parameter|Number rules, starting digits, e.g. `0012`
