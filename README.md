@@ -1,5 +1,5 @@
 # Rename_tool
-A batch renamed bat tool.
+A batch renamer bat tool.
 
 [English](README.md) • [中文](README_ZH.md)
 
